@@ -1,0 +1,12 @@
+#game-board {
+  width: 610px;
+  height: 610px;
+  border: 1px;
+}
+#game-board div {
+  float: left;
+  height: 200px;
+  width: 200px;
+  border: 2px solid #ccc;
+  text-align: center;
+}
